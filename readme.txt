@@ -1,6 +1,6 @@
 The program implements the Hyper Quick Sort algorithm, which is a parallel sorting algorithm. 
 It allows sorting a large array of numbers using multiple threads, which can significantly improve performance on systems with multiple processor cores.
-
+------
 Program flow explanation: 
 1. It prompts the user to enter the number of threads to use for sorting and the number of elements in the array.
 2. The user then enters the elements of the array.
